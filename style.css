@@ -11,20 +11,17 @@ h1{
 }
 h2{
     font-family:cursive;
-    font-size: 16px;
+    font-size: 22px;
 
 }
 h3{
     font-family:cursive;
-    font-size: 18px;
+    font-size: 16px;
 
 }
-
-
-p{
-    font-size: 32px;
-     color:black;
-     font-family:cursive;
+h4{
+    font-family:cursive;
+    font-size: 18px;
 
 }
 #camera{
