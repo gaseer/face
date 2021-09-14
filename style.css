@@ -1,11 +1,24 @@
 body{
-    color: bisque;
     background: rgb(0, 255, 0);
+ 
     background: linear-gradient(to right, hsl(170, 93%, 40%), hsl(303, 90%, 49%));
 }
-h3{
-    width: 80%;
-    font-size: 22px;
+h1{
+    color: bisque;
+    text-shadow: 1px 1px 1px red,
+             2px 2px 1px red;
+             font-family:fantasy ;
+}
+h2{
+    font-family:cursive;
+    font-size: 15px;
+
+}
+p{
+    font-size: 15px;
+     color:black;
+     font-family:cursive;
+
 }
 #camera{
     border: 2px dashed black;
