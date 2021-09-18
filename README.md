@@ -1,4 +1,4 @@
-# IMPORTANT: This is just for a demonstration so don't think this works perfectly
+This one is just made up for a demonstration with simple .snap function in JS
 
 
 
